@@ -305,6 +305,11 @@ h2 {
 
 .box-our-team {
     display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: space-between;
+    justify-content: center;
+    align-items: center;
     max-width: 1579px;
     margin: 0 auto;
     background: #F2F2F2;
