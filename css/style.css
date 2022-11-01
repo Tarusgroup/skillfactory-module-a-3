@@ -576,7 +576,9 @@ address a {
 footer {
     display: flex;
     background: #313030;
-    padding: 48px 0 26px 0;
+    max-width: 1579px;
+    margin: 0 auto;
+    padding: 50px 165px 50px;
     flex-direction: row;
     flex-wrap: nowrap;
     justify-content: space-around;
