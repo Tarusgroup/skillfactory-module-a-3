@@ -230,7 +230,9 @@ body {
     list-style: none;
     justify-content: center;
     text-align: center;
-    padding: 25px;
+    margin: 0 auto;
+    padding: 25px 165px 25px;
+    max-width: 1579px;
     background-color: #F2F2F2;
 
 }
