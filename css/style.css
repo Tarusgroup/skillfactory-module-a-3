@@ -78,7 +78,6 @@ body {
     letter-spacing: 1.5px;
     margin-bottom: 0px;
 }
-}
 
 .intro-text {
     margin-bottom: 58px;
@@ -337,6 +336,7 @@ h2 {
     align-content: flex-start;
     align-items: stretch;
     justify-content: space-evenly;
+    padding-left: 15px;
 }
 
 h3 {
@@ -617,6 +617,7 @@ footer {
     .intro-wrapper {
         padding: 0 0 50px;
     }
+}
 
 @media screen and (max-width: 975px) {
     .intro2 {
