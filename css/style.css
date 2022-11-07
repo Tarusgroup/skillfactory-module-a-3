@@ -461,6 +461,11 @@ h4 {
     justify-content: space-around;
 }
 
+.get-in-touch-left-box {
+    display: flex;
+    background: #F2F2F2;
+    width: 165px;
+}
 .feedback-form {
     display: flex;
     flex-direction: column;
