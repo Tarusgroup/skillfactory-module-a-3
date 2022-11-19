@@ -27,6 +27,13 @@
     font-style: normal;
 }
 
+@font-face {
+    src: url('../fonts/OpenSans-ExtraBold.ttf') format('truetype');
+    font-family: 'Open Sans';
+    font-weight: 800;
+    font-style: normal;
+}
+
 body {
     margin: 0;
     background-color: #e0e0e0;
